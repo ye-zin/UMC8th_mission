@@ -1,7 +1,7 @@
 package com.example.converter;
 
-import com.example.apiPayload.MemberRequestDTO;
-import com.example.apiPayload.MemberResponseDTO;
+import com.example.web.dto.MemberRequestDTO;
+import com.example.web.dto.MemberResponseDTO;
 import com.example.domain.Member;
 import com.example.domain.enums.Gender;
 

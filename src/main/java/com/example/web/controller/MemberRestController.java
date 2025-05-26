@@ -1,8 +1,8 @@
 package com.example.web.controller;
 
 import com.example.apiPayload.ApiResponse;
-import com.example.apiPayload.MemberRequestDTO;
-import com.example.apiPayload.MemberResponseDTO;
+import com.example.web.dto.MemberRequestDTO;
+import com.example.web.dto.MemberResponseDTO;
 import com.example.converter.MemberConverter;
 import com.example.domain.Member;
 import com.example.service.MemberService.MemberCommandService;

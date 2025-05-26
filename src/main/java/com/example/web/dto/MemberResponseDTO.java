@@ -1,4 +1,4 @@
-package com.example.apiPayload;
+package com.example.web.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

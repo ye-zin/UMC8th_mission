@@ -1,6 +1,6 @@
 package com.example.service.MemberService;
 
-import com.example.apiPayload.MemberRequestDTO;
+import com.example.web.dto.MemberRequestDTO;
 import com.example.apiPayload.code.status.ErrorStatus;
 import com.example.apiPayload.exception.handler.FoodCategoryHandler;
 import com.example.converter.MemberConverter;

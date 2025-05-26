@@ -1,4 +1,4 @@
-package com.example.apiPayload;
+package com.example.web.dto;
 
 import com.example.validation.annotation.ExistCategories;
 import jakarta.validation.constraints.NotBlank;
