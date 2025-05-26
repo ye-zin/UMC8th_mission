@@ -2,9 +2,8 @@ package com.example.service.StoreService;
 
 import com.example.domain.Review;
 import com.example.domain.Store;
-import com.example.repository.ReviewRepository;
+import com.example.repository.ReviewRepository.ReviewRepository;
 import com.example.repository.StoreRepository.StoreRepository;
-import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
